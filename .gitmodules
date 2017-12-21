@@ -1,0 +1,3 @@
+[submodule "skeletons"]
+	path = skeletons
+	url = git@github.com:Shea690901/tskeletons.git
